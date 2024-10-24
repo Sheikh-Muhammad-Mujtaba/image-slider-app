@@ -28,5 +28,5 @@ This Image Slider App is built using **Next.js**, **React**, **Tailwind CSS**, *
 
 ## Demo
 
-You can access the live version of the app [here](https://your-deployed-url.com).
+You can access the live version of the app [here](https://image-slider-app-six.vercel.app/).
 0
